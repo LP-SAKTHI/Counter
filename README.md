@@ -1,2 +1,2 @@
 # Counter
-## LIVE DEMO {counter-keerthi.herokuapp.com}
+## (LIVE DEMO) [counter-keerthi.herokuapp.com]
